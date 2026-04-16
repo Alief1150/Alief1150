@@ -2,7 +2,7 @@
 
 # Hi, I'm Alief 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Engineering+Student;TMJ+4A+%7C+PNJ;Networking+%7C+IoT+%7C+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Engineering+Student;TMJ+%7C+PNJ;Networking+%7C+IoT+%7C+Coding)](https://git.io/typing-svg)
 
 </div>
 
