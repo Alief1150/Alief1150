@@ -11,13 +11,12 @@ I’m Alief Athallah Putra, a student at Politeknik Negeri Jakarta.
 
 - Faculty: Teknik Informatika dan Jaringan
 - Study Program: Teknik Multimedia dan Jaringan
-- Class: TMJ 4A
+- Class: TMJ
 - Interests: Networking, IoT, Coding, Anime
 
 ## Education
 - Politeknik Negeri Jakarta
-- Teknik Informatika dan Jaringan
-- Teknik Multimedia dan Jaringan
+- Vocational High School 54 Jakarta
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alief_1150)
