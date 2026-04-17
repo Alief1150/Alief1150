@@ -6,7 +6,7 @@
 
 # Hi, I'm Alief 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Alief1150+%E2%80%A2+Computer+Science+Student;Politeknik+Negeri+Jakarta;Anime+%E2%80%A2+Linux+%E2%80%A2+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Alief1150+%F0%9F%8C%99+Computer+Science+Student;Jakarta+State+of+Polytechnic+%F0%9F%8C%B8;Anime+%E2%80%A2+Linux+%E2%80%A2+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,20 +17,20 @@
     </td>
     <td align="left" width="60%">
 
-## About Me
-Username: Alief1150
-Call me: Alief
-Who am I: Computer Science student at Politeknik Negeri Jakarta, currently in 4th semester :3
-OS: Arch Linux (main), Windows 10 LTSC (secondary)
-Hobbies: gaming, anime/manga, and learning tech
-Games: Cry of Fear, Half-Life 2, Assassin's Creed Revelations, Batman: Arkham Asylum, Counter-Strike Source, Resident Evil 4, Call of Duty MW/Black Ops, Dead Space, Age of Empires 2
-Interests: AI research, Linux distro hopping, machine learning, networking, cybersecurity
+## About Me ✨
+- Username: Alief1150
+- Call me: Alief
+- Who am I: Computer Science student at Jakarta State of Polytechnic, currently in 4th semester :3
+- OS: Arch Linux (main), Windows 10 LTSC (secondary)
+- Hobbies: gaming, anime/manga, and learning tech
+- Games: Cry of Fear, Half-Life 2, Assassin's Creed Revelations, Batman: Arkham Asylum, Counter-Strike Source, Resident Evil 4, Call of Duty MW/Black Ops, Dead Space, Age of Empires 2
+- Interests: AI research, Linux distro hopping, machine learning, networking, cybersecurity
 
     </td>
   </tr>
 </table>
 
-## Socials
+## Socials ✦
 <p align="center">
   <a href="https://instagram.com/alief_1150"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/alief1150"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
@@ -38,7 +38,7 @@ Interests: AI research, Linux distro hopping, machine learning, networking, cybe
   <a href="https://reddit.com/user/Dapper-Cut5124"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" /></a>
 </p>
 
-## Tech Stack
+## Tech Stack ✧
 <table align="center">
   <tr>
     <td valign="top" width="25%">
@@ -83,7 +83,7 @@ Interests: AI research, Linux distro hopping, machine learning, networking, cybe
   </tr>
 </table>
 
-## GitHub Stats
+## GitHub Stats ✨
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.shion.dev/api?username=Alief1150&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false" /></td>
