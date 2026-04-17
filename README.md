@@ -1,30 +1,45 @@
 <div align="center">
 
-# Hi, I'm Alief 👋
+# ✨ Hi, I'm Alief ✨
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Engineering+Student;TMJ+%7C+PNJ;Networking+%7C+IoT+%7C+Coding)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Engineering+Student;TMJ+4A+%7C+PNJ;Anime+lover+%26+student+developer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/9YJ4l5bKcS0AAAAC/anime-girl-wave.gif" width="220" alt="anime vibe" />
+</p>
+
+<p align="center">
+  <i>“Small steps, shiny dreams, and a little bit of anime magic.”</i>
+</p>
 
 </div>
 
-## About Me
-I’m Alief Athallah Putra, a student at Politeknik Negeri Jakarta.
+## ୨ৎ About Me
+I’m Alief Athallah Putra, an engineering student at Politeknik Negeri Jakarta.
 
 - Faculty: Teknik Informatika dan Jaringan
 - Study Program: Teknik Multimedia dan Jaringan
-- Class: TMJ
+- Class: TMJ 4A
 - Interests: Networking, IoT, Coding, Anime
+- Vibes: tech, anime, and clean aesthetics
 
-## Education
+## 𓆩♡𓆪 Education
 - Politeknik Negeri Jakarta
-- Vocational High School 54 Jakarta
+- Teknik Informatika dan Jaringan
+- Teknik Multimedia dan Jaringan
 
-## Socials
+## 𓆩⚡𓆪 Current Arc
+- Improving web development and backend skills
+- Building networking and IoT projects
+- Making my profile feel more personal and more anime-like
+
+## ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alief_1150)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alief1150)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AliefRBX_1150)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dapper-Cut5124)
 
-## Tech Stack
+## ✦ Tech Stack ✦
 
 ### Programming Languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -61,17 +76,17 @@ I’m Alief Athallah Putra, a student at Politeknik Negeri Jakarta.
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)](https://www.netlify.com/)
 
-## Learning & Goals
-- Improve web development and backend skills
-- Build better networking and IoT projects
-- Grow a cleaner, stronger student portfolio
+## ୧⍤⃝ᴬ Learning Goals
+- Level up web development and backend skills
+- Make stronger networking and IoT projects
+- Keep polishing a portfolio that feels like me
 
-## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=Alief1150&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Alief1150&theme=gruvbox_light&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alief1150&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 𓆩⚡𓆪 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=Alief1150&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=Alief1150&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alief1150&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Pacman Contribution Graph
+## 𓆩♡𓆪 Pacman Contribution Graph
 <!-- Works when the profile repository is named Alief1150 and GitHub Actions publishes the output branch. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alief1150/Alief1150/output/pacman-contribution-graph-dark.svg">
