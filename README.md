@@ -6,7 +6,7 @@
 
 # Hi, I'm Alief 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Alief1150+%F0%9F%8C%99+Computer+Science+Student;Jakarta+State+of+Polytechnic+%F0%9F%8C%B8;Anime+%E2%80%A2+Linux+%E2%80%A2+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=560&lines=Alief1150+%F0%9F%8C%99+Computer+Science+Student;State+Polytechnic+of+Jakarta+%F0%9F%8C%B8;Anime+%E2%80%A2+Linux+%E2%80%A2+Coding+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 </div>
 
